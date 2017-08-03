@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "Darin Levesque",
+  "launch_path": "/index.html",
+  "description": "An online digital portfolio and resume for Darin Levesque",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "Darin Levesque",
+    "url": "www.darinlevesque.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Darin Levesque",
+      "description": "An online digital portfolio and resume for Darin Levesque"
+    }
+  }
+}

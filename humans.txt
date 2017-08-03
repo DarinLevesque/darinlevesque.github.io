@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Darin Levesque -- The Subject -- @darinlevesque
+
+# THANKS
+
+  <name>
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3, Gulp, Node.js, Express.js, Git, ESlint, Sass, Heroku
